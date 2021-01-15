@@ -1,4 +1,4 @@
-![MishuNinja](http://i.imgur.com/IQycZsc.png)
+
 
 **ninja Brother's DDoS Tool**
 
