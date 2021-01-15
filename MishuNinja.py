@@ -12,17 +12,11 @@ import random
 import hashlib
 import Queue
 
-c_g = "\033[1;32m"
-c_r = "\033[1;31m"
-c_y = "\033[1;33m"
-c_e = "\033[0m"
-
-target 		= ""
-akamai_ips 	= []
-base_request 	= ""
-threads = []
-num_threads = 40
-VERSION = "v1.0"
+TGREEN =  '\033[32m' # Green Text
+print (TGREEN + "Rasel Ninja")
+print (TGREEN + "Ninja Brothers")
+print (TGREEN + "Sheikh Abir")
+VERSION = "v2.0"
 
 def banner():
 	print c_g
